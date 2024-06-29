@@ -2,3 +2,11 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'FINI Domain Trust'
 theme = 'ananke'
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/chicks-net"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/chicks2fini"
