@@ -1,0 +1,10 @@
+# Mac debris
+.DS_Store
+
+# vim debris
+*.sw[a-p]
+
+# hugo debris
+trust/.hugo_build.lock
+
+# so much debris! (haha)
