@@ -5,8 +5,12 @@ theme = 'ananke'
 
 [[params.ananke_socials]]
 name = "github"
-url = "https://github.com/chicks-net"
+url = "https://github.com/fini-net"
 
 [[params.ananke_socials]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/chicks2fini"
+url = "https://www.linkedin.com/company/flamingo-internet-navigators/"
+
+[[params.ananke_socials]]
+name = "youtube"
+url = "https://www.youtube.com/@ChristopherHicksFINI"
