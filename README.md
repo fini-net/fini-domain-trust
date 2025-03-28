@@ -5,3 +5,7 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/fini-net/fini-domain-trust/graphs/commit-activity)
 
 The FINI Domain Trust is here to keep good domains from bad hands.
+
+## Preview
+
+You can preview it at https://fini-net.github.io/fini-domain-trust/ but currently it looks terrible.
