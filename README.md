@@ -9,3 +9,14 @@ The FINI Domain Trust is here to keep good domains from bad hands.
 ## Preview
 
 You can preview it at https://fini-net.github.io/fini-domain-trust/ but currently it looks terrible.
+
+## Hugo/Theme updates
+
+Hugo probably got upgraded with `brew upgrade` at some point so you will
+want to run:
+
+```ShellCommand
+git submodule update --remote themes/ananke
+```
+
+to get the submodule current so that `hugo` runs cleanly.
