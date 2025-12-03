@@ -6,9 +6,21 @@
 
 The FINI Domain Trust is here to keep good domains from bad hands.
 
-## Preview
+## Sites
 
-You can preview it at https://fini-net.github.io/fini-domain-trust/ but currently it looks terrible.
+These sites are part of the FINI Domain Trust in December 2025:
+
+- <https://www.almanacvapolitics.org>
+- <https://www.bettywalls.com>
+- <https://www.gasp.org>
+- <https://www.hangmansdaughter.org>
+- <https://www.hrlug.org>
+- <https://www.partnersforjustice.com>
+- <https://www.perlclass.org>
+- <https://www.perlclasses.org>
+- <https://www.politicsvirginia.org>
+- <https://www.seaprojects.org>
+- <https://www.vccinc.net>
 
 ## Hugo/Theme updates
 
@@ -20,3 +32,5 @@ git submodule update --remote themes/ananke
 ```
 
 to get the submodule current so that `hugo` runs cleanly.
+
+- TODO: modernize to get rid of the submodule
