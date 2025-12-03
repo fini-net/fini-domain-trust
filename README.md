@@ -34,3 +34,8 @@ git submodule update --remote themes/ananke
 to get the submodule current so that `hugo` runs cleanly.
 
 - TODO: modernize to get rid of the submodule
+
+## Service via Digital Ocean App Platform
+
+You can see the [terraform we used](https://github.com/fini-net/fini-infra/tree/main/l6_ingress/app-fini-domain-trust)
+to serve these sites using the Digital Ocean App Platform.
